@@ -2,7 +2,7 @@
 
 **Authors**: Ediberto Ponce
 **Version**: 1.0.0  
-**PR**:
+**PR**: https://github.com/ponceedi000/django-music-store/pull/1
 
 ## Overview
 - **Use Django REST Framework to create an API, then “containerize” it with Docker**
